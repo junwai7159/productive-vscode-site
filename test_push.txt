@@ -1,0 +1,7 @@
+git fetch is a Git command that downloads the latest changes from a remote repository to your local repository. It is used to update your local repository with the latest changes from the remote repository without merging them into your local branch.
+
+git pull is a Git command that fetches and merges changes from a remote repository into your local repository. It is used to update your local repository with the latest changes from the remote repository.
+
+git commit is used to save changes to your local repository. When you run git commit, Git will create a new commit that contains the changes you have made to your local branch. This command is used to save your work and create a checkpoint in your Git history. It is important to add a commit message that describes the changes you have made.
+
+git push is used to upload your local commits to a remote repository. When you run git push, Git will upload the commits you have made to your local branch to a remote repository. This command is used to share your changes with others and collaborate on a project.
